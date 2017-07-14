@@ -12,13 +12,13 @@ body {
 img {
   height: 180px;
   float: right; 
-margin-left: 20px; 
+  margin-left: 20px; 
 }
 
 h3 {
-  color: darkred; 
-  
+  color: darkred;  
 }
+
 h2 {
   color: darkred; 
 }
